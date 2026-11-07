@@ -1,0 +1,7 @@
+[project]
+name = "zakat-py-gold-silver-nisab"
+version = "1.0.0"
+description = "Multi-Karat Gold (85g 24K) & Silver (595g) Nisab Zakat Engine (حاسبة نصاب الذهب والفضة والأوراق النقدية بالعيارات)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
